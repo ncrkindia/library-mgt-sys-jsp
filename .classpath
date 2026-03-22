@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="build/generated/src"/>
+	<classpathentry kind="src" path="web"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container/Web1"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Apache Tomcat 8.0.27/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/web"/>
+</classpath>
