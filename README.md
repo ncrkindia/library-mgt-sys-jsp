@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System (Web App JSP)
 
 A web-based library management system built using Java Server Pages (JSP) and MySQL. The application provides an interface for students and library assistants to manage core library operations efficiently.
 College project for JP Institute of Engineering & Technology (Meerut).
